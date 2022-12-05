@@ -21,6 +21,6 @@ table {
     margin-top: 50px;
 }
 
-#meeting-table, #gathering-table, #project-table{
+#meeting-table, #ass-table, #project-table{
     display: none;
 }

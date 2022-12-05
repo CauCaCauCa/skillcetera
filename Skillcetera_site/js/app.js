@@ -14,10 +14,10 @@ function myFunction1() {
 
 function reset() {
     var meeting = document.getElementById('meeting-table');
-    var gathering = document.getElementById('gathering-table');
     var project = document.getElementById('project-table');
+    var ass = document.getElementById('ass-table');
     meeting.style.display = 'none';
-    gathering.style.display = 'none';
+    ass.style.display = 'none';
     project.style.display = 'none';
 
     var phanTuCha = document.getElementById("js-insert");
@@ -77,28 +77,28 @@ function select_func() {
     var opt = document.getElementById('slc-detail').value;
 
     var meeting = document.getElementById('meeting-table');
-    var gathering = document.getElementById('gathering-table');
+    var ass = document.getElementById('ass-table');
     var project = document.getElementById('project-table');
     switch (opt) {
         case "1":
             meeting.style.display = 'block';
-            gathering.style.display = 'none';
+            ass.style.display = 'none';
             project.style.display = 'none';
             showMeeting(id_globle, "a_data/meeting.json");
             break;
         case "2":
             meeting.style.display = 'none';
-            gathering.style.display = 'block';
-            project.style.display = 'none';
+            project.style.display = 'block';
+            ass.style.display = 'none';
             break;
         case "3":
             meeting.style.display = 'none';
-            gathering.style.display = 'none';
-            project.style.display = 'block';
+            project.style.display = 'none';
+            ass.style.display = 'block';
             break;
         default:
             meeting.style.display = 'none';
-            gathering.style.display = 'none';
+            ass.style.display = 'none';
             project.style.display = 'none';
     }
 }
