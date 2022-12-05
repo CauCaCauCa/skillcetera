@@ -1,0 +1,422 @@
+﻿[
+    {
+        "ID": "SE184795",
+        "Name": "Từ Xuân Thịnh",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE183547",
+        "Name": "Nguyễn Văn Nhân",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE184856",
+        "Name": "Nguyễn Đức Trí",
+        "Dec_03_22": 1
+    },
+    {
+        "ID": "SE183659",
+        "Name": "Võ Thị Mai Hoa",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SE184143",
+        "Name": "Lại Thanh Hưng",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE180077",
+        "Name": "Nguyễn Minh Tuấn",
+        "Dec_03_22": 1
+    },
+    {
+        "ID": "SS181335",
+        "Name": "Nguyễn Thảo Xuân",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SS180623",
+        "Name": "Nguyễn Thảo Nguyên",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SA170260",
+        "Name": "Trần Thanh Phú Ninh",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE180195",
+        "Name": "Nguyễn Quốc Tài",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE181550",
+        "Name": "Trần Đình Gia",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE182561",
+        "Name": "Nguyễn Hoàng Anh",
+        "Dec_03_22": 1
+    },
+    {
+        "ID": "SE171161",
+        "Name": "Phan Trần Anh Khôi",
+        "Dec_03_22": 1
+    },
+    {
+        "ID": "SE182275",
+        "Name": "Hà Nguyễn Tiến Thành",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SE182542",
+        "Name": "Nguyễn Thanh Quỳnh Như",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE183341",
+        "Name": "Nguyễn Lê Hoài Bắc",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE182586",
+        "Name": "Huỳnh Quốc Bảo",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SS181122",
+        "Name": "Trần Mai Phương",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE182166",
+        "Name": "Nguyễn Thái Học",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE182836",
+        "Name": "Đỗ Trần Quốc Đạt",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SE184204",
+        "Name": "Trương Minh Sang",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SE182944",
+        "Name": "Lê Trần Triệu Vy",
+        "Dec_03_22": 1
+    },
+    {
+        "ID": "SS181364",
+        "Name": "Đỗ Trung Hiếu",
+        "Dec_03_22": 1
+    },
+    {
+        "ID": "SS180922",
+        "Name": "Đào Thuận An",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "CE180713",
+        "Name": "Nguyễn Quốc Thịnh",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SA180157",
+        "Name": "Trần Trương Thị Thu Ngân",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SE185105",
+        "Name": "Đoàn Trung Thành",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE182055",
+        "Name": "Nguyễn Vũ Len",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SE183936",
+        "Name": "Vũ Giang Nam",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE183937",
+        "Name": "Nguyễn Đức Trung",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE180465",
+        "Name": "Đỗ Thị Nguyên Hậu",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SE182380",
+        "Name": "Trần Hoàng Nam",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SE182868",
+        "Name": "Nguyễn Tấn Thiên Ngân",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SA180011",
+        "Name": "Lê Vĩnh Ngọc Trâm",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE180015",
+        "Name": "Phan Ngọc Huyền",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE182522",
+        "Name": "Võ Thành Danh",
+        "Dec_03_22": 1
+    },
+    {
+        "ID": "SE183087",
+        "Name": "Trương Tấn Dũng",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE183097",
+        "Name": "Phạm Anh Dũng",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SS180129",
+        "Name": "Dương Gia Phát",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SS181211",
+        "Name": "Cổ Gia Nghi",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE183834",
+        "Name": "Nguyễn Thị Diểm Phương",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE182054",
+        "Name": "Trần Phúc Trọng",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE182983",
+        "Name": "Trần Giang Khánh",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE182805",
+        "Name": "Chiếng Minh Khải",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE180074",
+        "Name": "Nguyễn Hoàng Nhật Ân",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SS181131",
+        "Name": "Từ Thị Minh Thư",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE181581",
+        "Name": "Ngô Gia Bảo",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE182795",
+        "Name": "Ngô Đình Phượng My",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SS181344",
+        "Name": "Đỗ quang thắng",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SS180182",
+        "Name": "Trương Đắc Kiên",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE183043",
+        "Name": "Chế Gia Huy",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE183237",
+        "Name": "Vũ Tiến Đơn",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SS180994",
+        "Name": "Nguyễn Châu Ngọc Nhi",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE182415",
+        "Name": "Trần Kim Bảo Trân",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE181692",
+        "Name": "PHẠM THÀNH LONG",
+        "Dec_03_22": 3
+    },
+    {
+        "ID": "SE182075",
+        "Name": "Trương Quốc Hưng",
+        "Dec_03_22": 1
+    },
+    {
+        "ID": "SE182368",
+        "Name": "Ngô Quang Minh",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE183115",
+        "Name": "Nguyễn Duy Nam",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SA180150",
+        "Name": "Nguyễn Uyển Nhi",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE184649",
+        "Name": "Võ Lâm Minh Trí",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE182769",
+        "Name": "Lâm Phi Long",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE180079",
+        "Name": "Trương Lê Trí Nguyên",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE182500",
+        "Name": "Trần Ngọc Thảo My",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE182705",
+        "Name": "Bùi Nhật Tân",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE183091",
+        "Name": "Nguyễn Thanh Hoà",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE184146",
+        "Name": "Lương Đăng Doanh",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SA180159",
+        "Name": "Trương Ngọc Quỳnh",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SS181056",
+        "Name": "Nguyễn Hoàng Gia Hân",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE184743",
+        "Name": "Trần Tuấn Anh",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE181968",
+        "Name": "Lê Nguyễn Xuân Lộc",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE183945",
+        "Name": "Nguyễn Đăng Khoa",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE183616",
+        "Name": "Võ Hoàng Tuấn Kiệt",
+        "Dec_03_22": 1
+    },
+    {
+        "ID": "SE182702",
+        "Name": "Lê Thành Lộc",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE180338",
+        "Name": "Hoàng Thanh Nguyên",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SS180910",
+        "Name": "Đỗ Trí Hiếu",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SS181112",
+        "Name": "Nguyễn Nhật Khánh",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE180054",
+        "Name": "Trần Đình Bảo",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE183008",
+        "Name": "Trần Nguyễn Việt Quang",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SS181324",
+        "Name": "Trần Ngọc Ánh",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SA180207",
+        "Name": "Nguyễn thị kim phúc",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE182506",
+        "Name": "Đoàn Tín Nghĩa",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SA180215",
+        "Name": "Lê Thị Tuyết Hương",
+        "Dec_03_22": 2
+    },
+    {
+        "ID": "SE141071",
+        "Name": "Quách Văn Đang",
+        "Dec_03_22": 0
+    },
+    {
+        "ID": "SE183241",
+        "Name": "Hứa Thành Đạt",
+        "Dec_03_22": 2
+    }
+]

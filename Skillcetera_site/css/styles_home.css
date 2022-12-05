@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.95;
+    text-align: center;
+    overflow: visible;
+
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+/* header config */
+header {
+    display: block;
+    background-color: black;
+    opacity: 0.95;
+    height: fit-content;
+}
+
+.brief {
+    color: aliceblue;
+    height: 30px;
+}
+
+.brief p {
+    display: inline;
+    margin: 5px;
+}
+
+.brief img {
+    position: relative;
+    top: 5px;
+}
+
+.brand {
+    padding: 1%;
+    background-color: white;
+}
+
+.nav {
+    padding: 1%;
+}
+
+.nav a {
+    margin-right: 3%;
+    /* border-radius: 10px; */
+    padding: 1.05%;
+}
+
+.nav a:hover {
+    background-color: gray;
+}
+
+/* main config */
+main {
+    display: block;
+    padding: 2%;
+    background-image: url('../pics/main_bg.png');
+    background-size: auto 100%;
+    background-repeat: repeat-x;
+    height: 520px;
+}
+
+main img {
+    border: solid whitesmoke 8px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+/* animation */
+#slideshow {
+    overflow: hidden;
+    height: fit-content;
+    width: 792px;
+    margin: 0 auto;
+}
+
+.slide-wrapper {
+    -webkit-animation: slide 10s ease infinite;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+@-webkit-keyframes slide {
+    20% {
+        margin-left: 0px;
+    }
+
+    30% {
+        margin-left: -812px;
+    }
+
+    50% {
+        margin-left: -812px;
+    }
+
+    60% {
+        margin-left: -1624px;
+    }
+
+    80% {
+        margin-left: -1624px;
+    }
+}
+
+/* footer config */
+footer {
+    background-color: black;
+    opacity: 0.95;
+    padding: 3%;
+}
+
+.contact {
+    display: inline-block;
+    margin-left: 2%;
+}
+
+.contact img {
+    position: relative;
+    top: 3px;
+    width: 20px;
+    border-radius: 10px;
+}
