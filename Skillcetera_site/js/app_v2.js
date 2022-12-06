@@ -56,9 +56,7 @@ function reset() {
     project.style.display = 'none';
 
     var phanTuCha = document.getElementById("js-insert");
-    // var phanTuCon = document.getElementById("test");
     let toRemove = document.querySelector(".sub-table");
-    // gọi remove để xóa phần tử DOM
     if (toRemove != null) {
         toRemove.remove();
     }
