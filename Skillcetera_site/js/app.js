@@ -9,7 +9,7 @@ function myFunction1() {
     var id = document.getElementById("search-input").value.toUpperCase();
     id_globle = id;
     reset();
-    getTodo(id, "a_data/meeting.json");
+    getTodo(id, "a_data/info.json");
 }
 
 function reset() {

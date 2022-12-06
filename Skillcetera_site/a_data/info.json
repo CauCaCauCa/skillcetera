@@ -1,0 +1,494 @@
+﻿[
+    {
+        "Id": "SE184795",
+        "Name": "Từ Xuân Thịnh"
+    },
+    {
+        "Id": "SE183547",
+        "Name": "Nguyễn Văn Nhân"
+    },
+    {
+        "Id": "SE184856",
+        "Name": "Nguyễn Đức Trí"
+    },
+    {
+        "Id": "SE183659",
+        "Name": "Võ Thị Mai Hoa"
+    },
+    {
+        "Id": "SE184143",
+        "Name": "Lại Thanh Hưng"
+    },
+    {
+        "Id": "SE180077",
+        "Name": "Nguyễn Minh Tuấn"
+    },
+    {
+        "Id": "SS181335",
+        "Name": "Nguyễn Thảo Xuân"
+    },
+    {
+        "Id": "SS180623",
+        "Name": "Nguyễn Thảo Nguyên"
+    },
+    {
+        "Id": "SA170260",
+        "Name": "Trần Thanh Phú Ninh"
+    },
+    {
+        "Id": "SE180195",
+        "Name": "Nguyễn Quốc Tài"
+    },
+    {
+        "Id": "SE181550",
+        "Name": "Trần Đình Gia"
+    },
+    {
+        "Id": "SE182561",
+        "Name": "Nguyễn Hoàng Anh"
+    },
+    {
+        "Id": "SE171161",
+        "Name": "phan trần anh khôi"
+    },
+    {
+        "Id": "SE182275",
+        "Name": "Hà Nguyễn Tiến Thành"
+    },
+    {
+        "Id": "SE182542",
+        "Name": "Nguyễn Thanh Quỳnh Như"
+    },
+    {
+        "Id": "SE183341",
+        "Name": "Nguyễn Lê Hoài Bắc"
+    },
+    {
+        "Id": "SE182586",
+        "Name": "Huỳnh Quốc Bảo"
+    },
+    {
+        "Id": "SS181122",
+        "Name": "Trần Mai Phương"
+    },
+    {
+        "Id": "SE182166",
+        "Name": "Nguyễn Thái Học"
+    },
+    {
+        "Id": "SE182836",
+        "Name": "Đỗ Trần Quốc Đạt"
+    },
+    {
+        "Id": "SE184204",
+        "Name": "Trương Minh Sang"
+    },
+    {
+        "Id": "SE182944",
+        "Name": "Lê Trần Triệu Vy"
+    },
+    {
+        "Id": "SS181364",
+        "Name": "Đỗ Trung Hiếu"
+    },
+    {
+        "Id": "SS180922",
+        "Name": "Đào Thuận An"
+    },
+    {
+        "Id": "CE180713",
+        "Name": "Nguyễn Quốc Thịnh"
+    },
+    {
+        "Id": "SA180157",
+        "Name": "Trần Trương Thị Thu Ngân"
+    },
+    {
+        "Id": "SE185105",
+        "Name": "Đoàn Trung Thành"
+    },
+    {
+        "Id": "SE182055",
+        "Name": "Nguyễn Vũ Len"
+    },
+    {
+        "Id": "SE183936",
+        "Name": "Vũ Giang Nam"
+    },
+    {
+        "Id": "SE183937",
+        "Name": "Nguyễn Đức Trung"
+    },
+    {
+        "Id": "SE180465",
+        "Name": "Đỗ Thị Nguyên Hậu"
+    },
+    {
+        "Id": "SE182380",
+        "Name": "Trần Hoàng Nam"
+    },
+    {
+        "Id": "SE182868",
+        "Name": "Nguyễn Tấn Thiên Ngân"
+    },
+    {
+        "Id": "SA180011",
+        "Name": "Lê Vĩnh Ngọc Trâm"
+    },
+    {
+        "Id": "SE180015",
+        "Name": "Phan Ngọc Huyền"
+    },
+    {
+        "Id": "SE182522",
+        "Name": "Võ Thành Danh"
+    },
+    {
+        "Id": "SE183087",
+        "Name": "Trương Tấn Dũng"
+    },
+    {
+        "Id": "SE183097",
+        "Name": "Phạm Anh Dũng"
+    },
+    {
+        "Id": "SS180129",
+        "Name": "Dương Gia Phát"
+    },
+    {
+        "Id": "SS181211",
+        "Name": "Cổ Gia Nghi"
+    },
+    {
+        "Id": "SE183834",
+        "Name": "Nguyễn Thị Diểm Phương"
+    },
+    {
+        "Id": "SE182054",
+        "Name": "Trần Phúc Trọng"
+    },
+    {
+        "Id": "SE182983",
+        "Name": "Trần Giang Khánh"
+    },
+    {
+        "Id": "SE182805",
+        "Name": "Chiếng Minh Khải"
+    },
+    {
+        "Id": "SE180074",
+        "Name": "Nguyễn Hoàng Nhật Ân"
+    },
+    {
+        "Id": "SS181131",
+        "Name": "Từ Thị Minh Thư"
+    },
+    {
+        "Id": "SE181581",
+        "Name": "Ngô Gia Bảo"
+    },
+    {
+        "Id": "SE182795",
+        "Name": "Ngô Đình Phượng My"
+    },
+    {
+        "Id": "SS181344",
+        "Name": "Đỗ quang thắng"
+    },
+    {
+        "Id": "SS180182",
+        "Name": "Trương Đắc Kiên"
+    },
+    {
+        "Id": "SE183043",
+        "Name": "Chế Gia Huy"
+    },
+    {
+        "Id": "SE183237",
+        "Name": "Vũ Tiến Đơn"
+    },
+    {
+        "Id": "SS180994",
+        "Name": "Nguyễn Châu Ngọc Nhi"
+    },
+    {
+        "Id": "SE182415",
+        "Name": "Trần Kim Bảo Trân"
+    },
+    {
+        "Id": "SE181692",
+        "Name": "PHẠM THÀNH LONG"
+    },
+    {
+        "Id": "SE182075",
+        "Name": "Trương Quốc Hưng"
+    },
+    {
+        "Id": "SE182368",
+        "Name": "Ngô Quang Minh"
+    },
+    {
+        "Id": "SE183115",
+        "Name": "Nguyễn Duy Nam"
+    },
+    {
+        "Id": "SA180150",
+        "Name": "Nguyễn Uyển Nhi"
+    },
+    {
+        "Id": "SE184649",
+        "Name": "Võ Lâm Minh Trí"
+    },
+    {
+        "Id": "SE182769",
+        "Name": "Lâm Phi Long"
+    },
+    {
+        "Id": "SE180079",
+        "Name": "Trương Lê Trí Nguyên"
+    },
+    {
+        "Id": "SE182500",
+        "Name": "Trần Ngọc Thảo My"
+    },
+    {
+        "Id": "SE182705",
+        "Name": "Bùi Nhật Tân"
+    },
+    {
+        "Id": "SE183091",
+        "Name": "Nguyễn Thanh Hoà"
+    },
+    {
+        "Id": "SE184146",
+        "Name": "Lương Đăng Doanh"
+    },
+    {
+        "Id": "SA180159",
+        "Name": "Trương Ngọc Quỳnh"
+    },
+    {
+        "Id": "SS181056",
+        "Name": "Nguyễn Hoàng Gia Hân"
+    },
+    {
+        "Id": "SE184743",
+        "Name": "Trần Tuấn Anh"
+    },
+    {
+        "Id": "SE181968",
+        "Name": "Lê Nguyễn Xuân Lộc"
+    },
+    {
+        "Id": "SE183945",
+        "Name": "Nguyễn Đăng Khoa"
+    },
+    {
+        "Id": "SE183616",
+        "Name": "Võ Hoàng Tuấn Kiệt"
+    },
+    {
+        "Id": "SE182702",
+        "Name": "Lê Thành Lộc"
+    },
+    {
+        "Id": "SE180338",
+        "Name": "Hoàng Thanh Nguyên"
+    },
+    {
+        "Id": "SS180910",
+        "Name": "Đỗ Trí Hiếu"
+    },
+    {
+        "Id": "SS181112",
+        "Name": "Nguyễn Nhật Khánh"
+    },
+    {
+        "Id": "SE180054",
+        "Name": "Trần Đình Bảo"
+    },
+    {
+        "Id": "SE183008",
+        "Name": "Trần Nguyễn Việt Quang"
+    },
+    {
+        "Id": "SS181324",
+        "Name": "Trần Ngọc Ánh"
+    },
+    {
+        "Id": "SA180207",
+        "Name": "Nguyễn thị kim phúc"
+    },
+    {
+        "Id": "SE182506",
+        "Name": "Đoàn Tín Nghĩa"
+    },
+    {
+        "Id": "SA180215",
+        "Name": "Lê Thị Tuyết Hương"
+    },
+    {
+        "Id": "SE141071",
+        "Name": "Quách Văn Đang"
+    },
+    {
+        "Id": "SE183241",
+        "Name": "Hứa Thành Đạt"
+    },
+    {
+        "Id": "SE170307",
+        "Name": "Trần Đại Phú"
+    },
+    {
+        "Id": "SS170168",
+        "Name": "Nguyễn Hạnh Duyên"
+    },
+    {
+        "Id": "SE172950",
+        "Name": "Đào Hoài Phương"
+    },
+    {
+        "Id": "SA170139",
+        "Name": "Trần Ngọc Bảo Trân"
+    },
+    {
+        "Id": "SS170096",
+        "Name": "Vũ Thùy Linh"
+    },
+    {
+        "Id": "SE170287",
+        "Name": "Đặng Anh Sang"
+    },
+    {
+        "Id": "SS170013",
+        "Name": "Đoàn Thành Long"
+    },
+    {
+        "Id": "SE170455",
+        "Name": "Nguyễn Lê Bảo Xuyên"
+    },
+    {
+        "Id": "SE172600",
+        "Name": "Nguyễn Thành Đạt"
+    },
+    {
+        "Id": "SE170426",
+        "Name": "Phan Hải Đăng"
+    },
+    {
+        "Id": "SE171697",
+        "Name": "Nguyễn Dương Gia Bảo"
+    },
+    {
+        "Id": "SE172573",
+        "Name": "Lê Quang Huy"
+    },
+    {
+        "Id": "SE170120",
+        "Name": "Đoàn Mai Hương"
+    },
+    {
+        "Id": "SA170091",
+        "Name": "Nguyễn Hồng Phương Uyên"
+    },
+    {
+        "Id": "SE173224",
+        "Name": "Vũ Phương Anh"
+    },
+    {
+        "Id": "SE171926",
+        "Name": "Phạm Thanh Quang"
+    },
+    {
+        "Id": "SE171166",
+        "Name": "Lê Thị Bình Minh"
+    },
+    {
+        "Id": "SE173370",
+        "Name": "Đào Thanh Thảo"
+    },
+    {
+        "Id": "QS170162",
+        "Name": "Mã Ngọc Long Bảo"
+    },
+    {
+        "Id": "SE171157",
+        "Name": "Dương Bảo Khánh"
+    },
+    {
+        "Id": "SE172248",
+        "Name": "Trần Trung Hiếu"
+    },
+    {
+        "Id": "SE172576",
+        "Name": "Nguyễn Đức Đạt"
+    },
+    {
+        "Id": "SE172248",
+        "Name": "Diệp Tài"
+    },
+    {
+        "Id": "SA170116",
+        "Name": "Trần Hải Đăng"
+    },
+    {
+        "Id": "SE170519",
+        "Name": "Đỗ Phúc Đức"
+    },
+    {
+        "Id": "SE171074",
+        "Name": "Trần Đức Trung"
+    },
+    {
+        "Id": "SE172170",
+        "Name": "Bùi Hoàng Tùng"
+    },
+    {
+        "Id": "HE171360",
+        "Name": "Phạm Hoài Nam"
+    },
+    {
+        "Id": "CS171414",
+        "Name": "Nguyễn Ngọc Mai Anh"
+    },
+    {
+        "Id": "SE161779",
+        "Name": "Đỗ Ngân Hà (K16)"
+    },
+    {
+        "Id": "SS170992",
+        "Name": "Tạ Hoàng Yến"
+    },
+    {
+        "Id": "SS170782",
+        "Name": "Đặng Ngọc Hảo"
+    },
+    {
+        "Id": "SE171971",
+        "Name": "Phan Minh Tùng"
+    },
+    {
+        "Id": "SS171019",
+        "Name": "Lâm Hữu Nhân"
+    },
+    {
+        "Id": "SE172604",
+        "Name": "Phan Hoàng Duy Kha"
+    },
+    {
+        "Id": "SE172085",
+        "Name": "Trần Minh Vương"
+    },
+    {
+        "Id": "SE161099",
+        "Name": "Nguyễn Trọng Tiến"
+    },
+    {
+        "Id": "SS170348",
+        "Name": "Nguyễn Phương Nhi"
+    },
+    {
+        "Id": "SE171923",
+        "Name": "Phan Phương Thư"
+    }
+]
