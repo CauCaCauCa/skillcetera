@@ -2,7 +2,7 @@
 var index_globe;
 
 function search_ENTER() {
-    var id = document.getElementById("search-input").value.toUpperCase();
+    var id = document.getElementById("search-input").value.toUpperCase().trim();
     // reset();
     getTodo(id, "a_data/info.json");
 }
