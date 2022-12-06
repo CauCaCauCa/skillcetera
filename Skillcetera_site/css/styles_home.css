@@ -80,7 +80,7 @@ main img {
 }
 
 .slide-wrapper {
-    -webkit-animation: slide 10s ease infinite;
+    -webkit-animation: slide 12s ease infinite;
     display: flex;
     flex-direction: row;
     align-items: center;
