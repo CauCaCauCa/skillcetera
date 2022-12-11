@@ -80,14 +80,14 @@ main img {
 }
 
 .slide-wrapper {
-    -webkit-animation: slide 12s ease infinite;
+    animation: slide 12s ease infinite;
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
 
-@-webkit-keyframes slide {
+@keyframes slide {
     20% {
         margin-left: 0px;
     }

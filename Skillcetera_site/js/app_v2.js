@@ -3,11 +3,10 @@ var index_globe;
 
 function search_ENTER() {
     var id = document.getElementById("search-input").value.toUpperCase().trim();
-    // reset();
     getTodo(id, "a_data/info.json");
 }
 
-function getTodo(id, path) {
+function getTodo(id, path) { // read file.json
     var request = new XMLHttpRequest();
 
     request.onreadystatechange = function () {
@@ -48,6 +47,8 @@ function search(id, data) {
     info.style.display = 'none';
 }
 function reset() {
+
+
     var meeting = document.getElementById('meeting-table');
     var project = document.getElementById('project-table');
     var ass = document.getElementById('ass-table');
@@ -68,7 +69,7 @@ function reset() {
     }
 }
 // ******************************************** //
-//           Setup section "Detail"             //
+//        Setup section "Detail display"        //
 // ******************************************** //
 
 function select_func() {
@@ -77,26 +78,21 @@ function select_func() {
     var meeting = document.getElementById('meeting-table');
     var ass = document.getElementById('ass-table');
     var project = document.getElementById('project-table');
+
+    meeting.style.display = 'none';
+    ass.style.display = 'none';
+    project.style.display = 'none';
+
     switch (opt) {
         case "1":
             meeting.style.display = 'block';
-            ass.style.display = 'none';
-            project.style.display = 'none';
             break;
         case "2":
-            meeting.style.display = 'none';
-            project.style.display = 'block';
-            ass.style.display = 'none';
-            break;
-        case "3":
-            meeting.style.display = 'none';
-            project.style.display = 'none';
             ass.style.display = 'block';
             break;
-        default:
-            meeting.style.display = 'none';
-            ass.style.display = 'none';
-            project.style.display = 'none';
+        case "3":
+            project.style.display = 'block';
+            break;
     }
 }
 
@@ -123,12 +119,17 @@ function showMeeting(data) {
     if (meeting.length == 0) {
         var html = '<tr class="sub-table"><td>' + 'Dec_03_22' + '</td><td>' + data[index_globe].Dec_03_22_present + '</td><td>' + data[index_globe].Dec_03_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_03_22_present + data[index_globe].Dec_03_22_organizer) + '</td></tr>';
         document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
+        var html = '<tr class="sub-table"><td>' + 'Dec_10_22' + '</td><td>' + data[index_globe].Dec_10_22_present + '</td><td>' + data[index_globe].Dec_10_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_10_22_present + data[index_globe].Dec_10_22_organizer) + '</td></tr>';
+        document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
+        // add more days here
+        // ...
     }
     var subTotal = document.getElementsByClassName('sub-total');
     var sum = 0;
     for (var i = 0; i < meeting.length; i++) {
         sum += subTotal[i].innerHTML - null;
     }
+    // add them  ngay thi nho chinh phan nay
     document.getElementById('total-meeting').innerHTML = sum;
     document.getElementById('sum-meeting').innerHTML = sum;
 }
@@ -155,6 +156,8 @@ function showAss(data) {
     if (ass.length == 0) {
         var html = '<tr class="sub-table-ass"><td>Dec_03_22</td><td>Dec_05_22</td><td class="sub-total-ass">' + data[index_globe].Dec_03_22 + '</td></tr>';
         document.getElementById('js-insert-ass').insertAdjacentHTML('beforeend', html);
+        // add more days here
+        // ...
     }
     var subTotal = document.getElementsByClassName('sub-total-ass');
     var sum = 0;

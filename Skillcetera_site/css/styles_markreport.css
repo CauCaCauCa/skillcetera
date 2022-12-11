@@ -8,14 +8,15 @@ table {
     text-align: center;
 }
 
-.navbar-brand{
+.navbar-brand {
     padding: 0.5%;
     border-radius: 10px;
 }
 
-.navbar-brand:hover{
+.navbar-brand:hover {
     background-color: gray;
 }
+
 #notfound {
     display: none;
 }
@@ -24,11 +25,14 @@ table {
     margin-top: 20%;
     display: none;
 }
+
 /* continute */
-#detail table{
+#detail table {
     margin-top: 50px;
 }
 
-#meeting-table, #ass-table, #project-table{
+#meeting-table,
+#ass-table,
+#project-table {
     display: none;
 }
