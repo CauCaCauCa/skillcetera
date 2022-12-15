@@ -110,7 +110,7 @@ function getMeeting() {
             callback('Something wrongs', undefined);
         }
     };
-    request.open("GET", "a_data/meeting.json", true);
+    request.open("GET", "a_data/meeting_update_dec_15_22.json", true);
     request.send();
 }
 
@@ -120,6 +120,8 @@ function showMeeting(data) {
         var html = '<tr class="sub-table"><td>' + 'Dec_03_22' + '</td><td>' + data[index_globe].Dec_03_22_present + '</td><td>' + data[index_globe].Dec_03_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_03_22_present + data[index_globe].Dec_03_22_organizer) + '</td></tr>';
         document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
         var html = '<tr class="sub-table"><td>' + 'Dec_10_22' + '</td><td>' + data[index_globe].Dec_10_22_present + '</td><td>' + data[index_globe].Dec_10_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_10_22_present + data[index_globe].Dec_10_22_organizer) + '</td></tr>';
+        document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
+        var html = '<tr class="sub-table"><td>' + 'Dec_13_22' + '</td><td>' + data[index_globe].Dec_13_22_present + '</td><td>' + data[index_globe].Dec_13_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_13_22_present + data[index_globe].Dec_13_22_organizer) + '</td></tr>';
         document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
         // add more days here
         // ...
