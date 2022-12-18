@@ -56,16 +56,14 @@ function reset() {
     ass.style.display = 'none';
     project.style.display = 'none';
 
-    var phanTuCha = document.getElementById("js-insert");
-    let toRemove = document.querySelector(".sub-table");
-    if (toRemove != null) {
-        toRemove.remove();
+    let markMeeting = document.getElementById("js-insert");
+    while (markMeeting.firstChild) {
+        markMeeting.removeChild(markMeeting.firstChild);
     }
 
-    var phanTuCha = document.getElementById("js-insert-ass");
-    let resetAss = document.querySelector(".sub-table-ass");
-    if (resetAss != null) {
-        resetAss.remove();
+    let markAss = document.getElementById("js-insert-ass");
+    while (markAss.firstChild) {
+        markAss.removeChild(markAss.firstChild);
     }
 }
 // ******************************************** //
@@ -110,7 +108,7 @@ function getMeeting() {
             callback('Something wrongs', undefined);
         }
     };
-    request.open("GET", "a_data/meeting_update_dec_15_22.json", true);
+    request.open("GET", "a_data/meeting.json", true);
     request.send();
 }
 
@@ -122,6 +120,10 @@ function showMeeting(data) {
         var html = '<tr class="sub-table"><td>' + 'Dec_10_22' + '</td><td>' + data[index_globe].Dec_10_22_present + '</td><td>' + data[index_globe].Dec_10_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_10_22_present + data[index_globe].Dec_10_22_organizer) + '</td></tr>';
         document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
         var html = '<tr class="sub-table"><td>' + 'Dec_13_22' + '</td><td>' + data[index_globe].Dec_13_22_present + '</td><td>' + data[index_globe].Dec_13_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_13_22_present + data[index_globe].Dec_13_22_organizer) + '</td></tr>';
+        document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
+        var html = '<tr class="sub-table"><td>' + 'Dec_16_22' + '</td><td>' + data[index_globe].Dec_16_22_present + '</td><td>' + data[index_globe].Dec_16_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_16_22_present + data[index_globe].Dec_16_22_organizer) + '</td></tr>';
+        document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
+        var html = '<tr class="sub-table"><td>' + 'Dec_17_22' + '</td><td>' + data[index_globe].Dec_17_22_present + '</td><td>' + data[index_globe].Dec_17_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_17_22_present + data[index_globe].Dec_17_22_organizer) + '</td></tr>';
         document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
         // add more days here
         // ...
