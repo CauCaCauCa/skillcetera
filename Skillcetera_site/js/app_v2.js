@@ -31,7 +31,7 @@ function search(id, data) {
             nf.style.display = 'none';
             info.style.display = 'block';
             var _id = document.getElementById('ID');
-            _id.innerHTML = data[index].Id;
+            _id.innerHTML = data[index].Id.toUpperCase();
             var _name = document.getElementById('name');
             _name.innerHTML = data[index].Name;
             // reset for new searching

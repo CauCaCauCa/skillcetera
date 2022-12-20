@@ -1,5 +1,9 @@
 ﻿[
     {
+        "Id": "SS180601",
+        "Name": "Nguyễn Hữu Khoan"
+    },
+    {
         "Id": "SE184795",
         "Name": "Từ Xuân Thịnh"
     },
@@ -336,6 +340,38 @@
         "Name": "Hứa Thành Đạt"
     },
     {
+        "Id": "SE183713",
+        "Name": "Trương Bảo Ngọc"
+    },
+    {
+        "Id": "Se171319",
+        "Name": "Lâm Thái Thuận"
+    },
+    {
+        "Id": "SS180068",
+        "Name": "Nguyễn Hoàng Anh Vũ"
+    },
+    {
+        "Id": "SE183631",
+        "Name": "Nguyễn Hồng Minh Quân"
+    },
+    {
+        "Id": "SE184988",
+        "Name": "Vũ Đức Tuấn"
+    },
+    {
+        "Id": "SE170560",
+        "Name": "Hồ Chí Bảo"
+    },
+    {
+        "Id": "SS181311",
+        "Name": "Tô Nguyệt Thiên An "
+    },
+    {
+        "Id": "SE180706",
+        "Name": "Nguyễn Khắc Quân"
+    },
+    {
         "Id": "SE170307",
         "Name": "Trần Đại Phú"
     },
@@ -416,11 +452,11 @@
         "Name": "Dương Bảo Khánh"
     },
     {
-        "Id": "SE172576",
+        "Id": "SE172248",
         "Name": "Trần Trung Hiếu"
     },
     {
-        "Id": "SE172248",
+        "Id": "SE172576",
         "Name": "Nguyễn Đức Đạt"
     },
     {
@@ -481,7 +517,7 @@
     },
     {
         "Id": "SE161099",
-        "Name": "Nguyễn Trọng Tiến"
+        "Name": "Nguyễn Trọng Tiến "
     },
     {
         "Id": "SS170348",
