@@ -125,6 +125,8 @@ function showMeeting(data) {
         document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
         var html = '<tr class="sub-table"><td>' + 'Dec_17_22' + '</td><td>' + data[index_globe].Dec_17_22_present + '</td><td>' + data[index_globe].Dec_17_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_17_22_present + data[index_globe].Dec_17_22_organizer) + '</td></tr>';
         document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
+        var html = '<tr class="sub-table"><td>' + 'Dec_24_22' + '</td><td>' + data[index_globe].Dec_24_22_present + '</td><td>' + data[index_globe].Dec_24_22_organizer + '</td><td class="sub-total">' + (data[index_globe].Dec_24_22_present + data[index_globe].Dec_24_22_organizer) + '</td></tr>';
+        document.getElementById('js-insert').insertAdjacentHTML('beforeend', html);
         // add more days here
         // ...
     }
