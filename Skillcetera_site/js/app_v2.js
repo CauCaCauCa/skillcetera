@@ -40,6 +40,8 @@ function search(id, data) {
             getMeeting();
             // getAss
             getAss();
+            // getProject
+            getProject();
             return;
         }
     }
@@ -64,6 +66,11 @@ function reset() {
     let markAss = document.getElementById("js-insert-ass");
     while (markAss.firstChild) {
         markAss.removeChild(markAss.firstChild);
+    }
+
+    let markPro = document.getElementById("js-insert-project");
+    while (markPro.firstChild) {
+        markPro.removeChild(markPro.firstChild);
     }
 }
 // ******************************************** //
@@ -173,6 +180,52 @@ function showAss(data) {
     document.getElementById('total-ass').innerHTML = sum;
     document.getElementById('sum-ass').innerHTML = sum;
 }
+// ******************************************* //
+function getProject() {
+    var request = new XMLHttpRequest();
+
+    request.onreadystatechange = function () {
+        if (this.readyState == 4 && request.status === 200) {
+            data = JSON.parse(request.responseText);
+            showProject(data);
+        }
+        if (this.readyState === 4 && request.status !== 200) {
+            callback('Something wrongs', undefined);
+        }
+    };
+    request.open("GET", "a_data/project.json", true);
+    request.send();
+}
+
+function showProject(data) {
+    var pro = document.getElementsByClassName('sub-table-pro');
+    if (pro.length == 0) {
+
+        // for each project
+        var role = 'none';
+        var bonus = 0;
+        if (data[index_globe].Hangouts == 1 || data[index_globe].Hangouts == 2) {
+            role = 'member'
+            bonus = data[index_globe].Hangouts == 2 ? 1 : 0;
+        } else if (data[index_globe].Hangouts == 3 || data[index_globe].Hangouts == 4) {
+            role = 'leader'
+        } else if (data[index_globe].Hangouts == 5) {
+            role = 'manager'
+        }
+        var html = '<tr class="sub-table-pro"><td>Hangouts</td><td>' + role + '</td><td>' + bonus + '</td><td class="sub-total-pro">' + (data[index_globe].Hangouts + bonus) +'</td></tr>';
+        document.getElementById('js-insert-project').insertAdjacentHTML('beforeend', html);
+        // end for project
 
 
+        // add more project here
+        // ...
+    }
+    var subTotal = document.getElementsByClassName('sub-total-pro');
+    var sum = 0;
+    for (var i = 0; i < subTotal.length; i++) {
+        sum += subTotal[i].innerHTML - null;
+    }
+    document.getElementById('total-project').innerHTML = sum;
+    document.getElementById('sum-project').innerHTML = sum;
+}
 
