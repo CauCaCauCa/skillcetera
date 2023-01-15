@@ -1,0 +1,905 @@
+﻿[
+    {
+        "Id": "SE184795",
+        "Name": "Từ Xuân Thịnh",
+        "MEETING": 7.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 3.000000000000000e+000
+    },
+    {
+        "Id": "SE183547",
+        "Name": "Nguyễn Văn Nhân",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE184856",
+        "Name": "Nguyễn Đức Trí",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE183659",
+        "Name": "Võ Thị Mai Hoa",
+        "MEETING": 6.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE184143",
+        "Name": "Lại Thanh Hưng",
+        "MEETING": 5.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE180077",
+        "Name": "Nguyễn Minh Tuấn",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SS181335",
+        "Name": "Nguyễn Thảo Xuân",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "Ss180623",
+        "Name": "Nguyễn Thảo Nguyên",
+        "MEETING": 5.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SA170260",
+        "Name": "Trần Thanh Phú Ninh",
+        "MEETING": 5.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE180195",
+        "Name": "Nguyễn Quốc Tài",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE181550",
+        "Name": "Trần Đình Gia",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE182561",
+        "Name": "Nguyễn Hoàng Anh",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE171161",
+        "Name": "phan trần anh khôi",
+        "MEETING": 5.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE182275",
+        "Name": "Hà Nguyễn Tiến Thành",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE182542",
+        "Name": "Nguyễn Thanh Quỳnh Như",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE183341",
+        "Name": "Nguyễn Lê Hoài Bắc",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE182586",
+        "Name": "Huỳnh Quốc Bảo",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SS181122",
+        "Name": "Trần Mai Phương",
+        "MEETING": 5.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE182166",
+        "Name": "Nguyễn Thái Học",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182836",
+        "Name": "Đỗ Trần Quốc Đạt",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE184204",
+        "Name": "Trương Minh Sang",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE182944",
+        "Name": "Lê Trần Triệu Vy",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SS181364",
+        "Name": "Đỗ Trung Hiếu",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SS180922",
+        "Name": "Đào Thuận An",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "CE180713",
+        "Name": "Nguyễn Quốc Thịnh",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SA180157",
+        "Name": "Trần Trương Thị Thu Ngân",
+        "MEETING": 7.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE185105",
+        "Name": "Đoàn Trung Thành",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE182055",
+        "Name": "Nguyễn Vũ Len",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE183936",
+        "Name": "Vũ Giang Nam",
+        "MEETING": 5.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 3.000000000000000e+000
+    },
+    {
+        "Id": "SE183937",
+        "Name": "Nguyễn Đức Trung",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE180465",
+        "Name": "Đỗ Thị Nguyên Hậu",
+        "MEETING": 5.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE182380",
+        "Name": "Trần Hoàng Nam",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE182868",
+        "Name": "Nguyễn Tấn Thiên Ngân",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SA180011",
+        "Name": "Lê Vĩnh Ngọc Trâm",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE180015",
+        "Name": "Phan Ngọc Huyền",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE182522",
+        "Name": "Võ Thành Danh",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE183087",
+        "Name": "Trương Tấn Dũng",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE183097",
+        "Name": "Phạm Anh Dũng",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SS180129",
+        "Name": "Dương Gia Phát",
+        "MEETING": 7.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SS181211",
+        "Name": "Cổ Gia Nghi",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE183834",
+        "Name": "Nguyễn Thị Diểm Phương",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 3.000000000000000e+000
+    },
+    {
+        "Id": "SE182054",
+        "Name": "Trần Phúc Trọng",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182983",
+        "Name": "Trần Giang Khánh",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE182805",
+        "Name": "Chiếng Minh Khải",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE180074",
+        "Name": "Nguyễn Hoàng Nhật Ân",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SS181131",
+        "Name": "Từ Thị Minh Thư",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "se181581",
+        "Name": "Ngô Gia Bảo",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182795",
+        "Name": "Ngô Đình Phượng My",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "Ss181344",
+        "Name": "Đỗ quang thắng",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SS180182",
+        "Name": "Trương Đắc Kiên",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE183043",
+        "Name": "Chế Gia Huy",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE183237",
+        "Name": "Vũ Tiến Đơn",
+        "MEETING": 5.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SS180994",
+        "Name": "Nguyễn Châu Ngọc Nhi",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE182415",
+        "Name": "Trần Kim Bảo Trân",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE181692",
+        "Name": "PHẠM THÀNH LONG",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182075",
+        "Name": "Trương Quốc Hưng",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182368",
+        "Name": "Ngô Quang Minh",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE183115",
+        "Name": "Nguyễn Duy Nam",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SA180150",
+        "Name": "Nguyễn Uyển Nhi",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE184649",
+        "Name": "Võ Lâm Minh Trí",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182769",
+        "Name": "Lâm Phi Long",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE180079",
+        "Name": "Trương Lê Trí Nguyên",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182500",
+        "Name": "Trần Ngọc Thảo My",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182705",
+        "Name": "Bùi Nhật Tân",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE183091",
+        "Name": "Nguyễn Thanh Hoà",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE184146",
+        "Name": "Lương Đăng Doanh",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SA180159",
+        "Name": "Trương Ngọc Quỳnh",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SS181056",
+        "Name": "Nguyễn Hoàng Gia Hân",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE184743",
+        "Name": "Trần Tuấn Anh",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE181968",
+        "Name": "Lê Nguyễn Xuân Lộc",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE183945",
+        "Name": "Nguyễn Đăng Khoa",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE183616",
+        "Name": "Võ Hoàng Tuấn Kiệt",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182702",
+        "Name": "Lê Thành Lộc",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE180338",
+        "Name": "Hoàng Thanh Nguyên",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "ss180910",
+        "Name": "Đỗ Trí Hiếu",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SS181112",
+        "Name": "Nguyễn Nhật Khánh",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE180054",
+        "Name": "Trần Đình Bảo",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE183008",
+        "Name": "Trần Nguyễn Việt Quang",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SS181324",
+        "Name": "Trần Ngọc Ánh",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SA180207",
+        "Name": "Nguyễn thị kim phúc",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE182506",
+        "Name": "Đoàn Tín Nghĩa",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SA180215",
+        "Name": "Lê Thị Tuyết Hương",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE141071",
+        "Name": "Quách Văn Đang",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE183241",
+        "Name": "Hứa Thành Đạt",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 1.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE183713",
+        "Name": "Trương Bảo Ngọc",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "Se171319",
+        "Name": "Lâm Thái Thuận",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SS180068",
+        "Name": "Nguyễn Hoàng Anh Vũ",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE183631",
+        "Name": "Nguyễn Hồng Minh Quân",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE184988",
+        "Name": "Vũ Đức Tuấn",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE170560",
+        "Name": "Hồ Chí Bảo",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SS181311",
+        "Name": "Tô Nguyệt Thiên An ",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE180706",
+        "Name": "Nguyễn Khắc Quân",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE170307",
+        "Name": "Trần Đại Phú",
+        "MEETING": 3.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SS170168",
+        "Name": "Nguyễn Hạnh Duyên",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE172950",
+        "Name": "Đào Hoài Phương",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SA170139",
+        "Name": "Trần Ngọc Bảo Trân",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SS170096",
+        "Name": "Vũ Thùy Linh",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 5.000000000000000e+000
+    },
+    {
+        "Id": "SE170287",
+        "Name": "Đặng Anh Sang",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 5.000000000000000e+000
+    },
+    {
+        "Id": "SS170013",
+        "Name": "Đoàn Thành Long",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE170455",
+        "Name": "Nguyễn Lê Bảo Xuyên",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 5.000000000000000e+000
+    },
+    {
+        "Id": "SE172600",
+        "Name": "Nguyễn Thành Đạt",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE170426",
+        "Name": "Phan Hải Đăng",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE171697",
+        "Name": "Nguyễn Dương Gia Bảo",
+        "MEETING": 2.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 3.000000000000000e+000
+    },
+    {
+        "Id": "SE172573",
+        "Name": "Lê Quang Huy",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 5.000000000000000e+000
+    },
+    {
+        "Id": "SE170120",
+        "Name": "Đoàn Mai Hương",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SA170091",
+        "Name": "Nguyễn Hồng Phương Uyên",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE171926",
+        "Name": "Phạm Thanh Quang",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE171166",
+        "Name": "Lê Thị Bình Minh",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SE173370",
+        "Name": "Đào Thanh Thảo",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "QS170162",
+        "Name": "Mã Ngọc Long Bảo",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE171157",
+        "Name": "Dương Bảo Khánh",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE172576",
+        "Name": "Trần Trung Hiếu",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 5.000000000000000e+000
+    },
+    {
+        "Id": "SE172248",
+        "Name": "Nguyễn Đức Đạt",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE172248",
+        "Name": "Diệp Tài",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SA170116",
+        "Name": "Trần Hải Đăng",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE170519",
+        "Name": "Đỗ Phúc Đức",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE171074",
+        "Name": "Trần Đức Trung",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE172170",
+        "Name": "Bùi Hoàng Tùng",
+        "MEETING": 4.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 4.000000000000000e+000
+    },
+    {
+        "Id": "CS171414",
+        "Name": "Nguyễn Ngọc Mai Anh",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE161779",
+        "Name": "Đỗ Ngân Hà (K16)",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SS170992",
+        "Name": "Tạ Hoàng Yến",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 1.000000000000000e+000
+    },
+    {
+        "Id": "SS170782",
+        "Name": "Đặng Ngọc Hảo",
+        "MEETING": 9.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 5.000000000000000e+000
+    },
+    {
+        "Id": "SE171971",
+        "Name": "Phan Minh Tùng",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SS171019",
+        "Name": "Lâm Hữu Nhân",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 2.000000000000000e+000
+    },
+    {
+        "Id": "SE172604",
+        "Name": "Phan Hoàng Duy Kha",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE172085",
+        "Name": "Trần Minh Vương",
+        "MEETING": 1.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    },
+    {
+        "Id": "SE161099",
+        "Name": "Nguyễn Trọng Tiến ",
+        "MEETING": 6.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 5.000000000000000e+000
+    },
+    {
+        "Id": "SS170348",
+        "Name": "Nguyễn Phương Nhi",
+        "MEETING": 5.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 3.000000000000000e+000
+    },
+    {
+        "Id": "SE171923",
+        "Name": "Phan Phương Thư",
+        "MEETING": 0.000000000000000e+000,
+        "ASSIGNMENT": 0.000000000000000e+000,
+        "PROJECTS": 0.000000000000000e+000
+    }
+]

@@ -19,29 +19,32 @@
     <header>
         <nav class="navbar navbar-expand-lg bg-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="./">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
                         class="bi bi-caret-left-fill" viewBox="0 0 16 16">
                         <path
                             d="m3.86 8.753 5.482 4.796c.646.566 1.658.106 1.658-.753V3.204a1 1 0 0 0-1.659-.753l-5.48 4.796a1 1 0 0 0 0 1.506z" />
                     </svg>
-                    <span>Back</span>
+                    <span>Home</span>
                 </a>
             </div>
+            <select id="slc-term" class="form-select form-select-xxl"
+                aria-label="Default select example">
+                <option selected value="0">Spring 2023</option>
+                <option value="1">Fall 2022</option>
+            </select>
         </nav>
     </header>
     <main>
         <!-- Search Bar -->
-
         <div class="d-flex">
             <input class="form-control me-2" placeholder="Enter Student's ID" aria-label="Search" id="search-input">
-            <button class="btn btn-outline-success" id="search-button" onclick="search_ENTER()">Search</button>
+            <button class="btn btn-outline-success" id="search-button">Search</button>
         </div>
         <div id="notfound">
             <br>
             <p>Sorry, not found your ID... <span style="color: red;">Try again!!!</span></p>
         </div>
-
         <div id="info">
             <div id="score">
                 <table class="table">
@@ -52,6 +55,7 @@
                             <th scope="col">Meeting</th>
                             <th scope="col">Individual Assignment</th>
                             <th scope="col">Projects</th>
+                            <th scope="col">Bonus</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -61,6 +65,7 @@
                             <td id="sum-meeting">0</td>
                             <td id="sum-ass">0</td>
                             <td id="sum-project">0</td>
+                            <td id="sum-bonus">0</td>
                         </tr>
                     </tbody>
                 </table>
@@ -69,12 +74,12 @@
             <div id="detail">
                 <br>
                 <h2>Detail</h2>
-                <select onchange="select_func()" id="slc-detail" class="form-select form-select-sm"
-                    aria-label=".form-select-sm example">
+                <select id="slc-detail" class="form-select form-select-sm" aria-label=".form-select-sm example">
                     <option selected>Open this select menu</option>
                     <option value="1">Meeting Club</option>
                     <option value="2">Individual Assignment</option>
                     <option value="3">Projects</option>
+                    <option value="4">Bonus</option>
                 </select>
 
                 <div id="meeting-table">
@@ -145,7 +150,7 @@
                             <th style="font-size: larger ;color: red">Total</th>
                         </thead>
                         <tbody id="js-insert-project">
-<!-- 
+                            <!-- 
                             <tr class="sub-table-pro">
                                 <td>Hangouts</td>
                                 <td>leader</td>
@@ -166,6 +171,39 @@
                             <p class="card-text" style="font-weight: bold; color: gold;">
                                 Project manager: 5 coins
                             </p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div id="bonus-table">
+                    <table class="table table-striped">
+                        <thead>
+                            <th>Title</th>
+                            <th>Contribute</th>
+                            <th style="font-size: larger ;color: red">Bonus</th>
+                        </thead>
+                        <tbody id="js-insert-bonus">
+                            <!-- 
+                            <tr class="sub-table-bonus">
+                                <td>Jan_13</td>
+                                <td>Video</td>
+                                <td>1</td>
+                            </tr> -->
+
+                        </tbody>
+                    </table>
+                    <h2>Total: <span id="total-bonus">result</span></h2>
+                    <div class="card" style="width: 28rem;">
+                        <div class="card-body">
+                            <h5 class="card-title">Grading Criteria</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Bonus</h6>
+                            <p class="card-text">
+                                Updating...
+                            </p>
+                            <!-- <p class="card-text" style="font-weight: bold; color: gold;">
+                                Project manager: 5 coins
+                            </p> -->
                         </div>
                     </div>
 
@@ -192,7 +230,7 @@
         integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous">
         </script>
     <!-- JavaScript manipulates data -->
-    <script src="js/app_v2.js"></script>
+    <script type="module" src="js/app_spring23.js"></script>
 </body>
 
 </html>

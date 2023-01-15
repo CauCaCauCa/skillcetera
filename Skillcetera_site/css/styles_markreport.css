@@ -33,6 +33,18 @@ table {
 
 #meeting-table,
 #ass-table,
-#project-table {
+#project-table,
+#bonus-table {
     display: none;
+}
+
+
+
+/*
+    select terms
+*/
+
+#slc-term{
+    width: 150px;
+    margin-right: 15%;
 }
